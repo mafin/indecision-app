@@ -1,5 +1,12 @@
 {
+  "name": "indecision",
+  "version": "1.0.0",
+  "description": "Simple ReactJs app",
+  "main": "index.js",
+  "author": "Petr Enin <petr.enin@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
   }
 }
