@@ -24,7 +24,7 @@ var template = React.createElement(
     React.createElement(
         'p',
         null,
-        app.options.length > 0 ? 'Here are your options' : 'No potions'
+        app.options.length > 0 ? 'Here are your options' : 'No options'
     ),
     React.createElement(
         'ol',
@@ -41,6 +41,7 @@ var template = React.createElement(
         )
     )
 );
+
 var user = {
     name: 'Petr',
     age: 123,
